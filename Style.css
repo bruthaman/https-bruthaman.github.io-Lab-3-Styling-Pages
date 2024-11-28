@@ -1,0 +1,29 @@
+h2, h3, h4, h5, h6 {
+  background-color: #F99417;
+  color: #ffffff;
+  font-family: monospace;
+  margin-inline-start: 25%;
+  margin-inline-end: 25%;
+}
+
+body {
+  background-color: #363062;
+}
+
+p {
+  color: whitesmoke;
+  border-style: solid;
+  border-radius: 10px;
+  font-family: Calibri;
+  font-size: 20px;
+  font-weight: 700;
+  margin-inline-start: 25%;
+  margin-inline-end: 25%;
+  outline-style: solid;
+  outline-color: black;
+}
+
+hr {
+  margin-inline-start: 20%;
+  margin-inline-end: 20%;
+}
